@@ -1,0 +1,2 @@
+interface Solution : Runnable {
+}
