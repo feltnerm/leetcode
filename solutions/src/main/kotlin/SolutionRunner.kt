@@ -1,5 +1,5 @@
-import `two-sum`.TwoSumSolution
 import mycalendar.MyCalendarI
+import two_sum.TwoSumSolution
 
 class SolutionRunner {
 

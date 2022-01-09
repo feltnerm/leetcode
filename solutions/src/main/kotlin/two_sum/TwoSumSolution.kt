@@ -1,4 +1,4 @@
-package `two-sum`
+package two_sum
 
 import Solution
 
